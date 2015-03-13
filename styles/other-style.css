@@ -1,0 +1,8 @@
+a,alink{cursor:pointer}
+body{padding-top:60px;font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;color:#89b63c}
+h1,h2,h3,h4,h5,h6{font-family:"Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;color:#89b63c;text-transform:uppercase}
+table tfoot th,table tbody th{border-top:1px solid #ddd}
+.container{padding-left:0;padding-right:0;width:80%}
+#matera img{width:90%}
+hr.star-primary{background:#89b63c;color:#fff}
+padding 0:after,border none:after,border-top solid 5px:after,text-align center:after,max-width 250px:after,margin 25pxauto 30px:after{content:url("/images/logo_hr.png");font-family:FontAwesome;display:inline-block;position:relative;top:-.8em;font-size:2em;padding:.25em .25em}
